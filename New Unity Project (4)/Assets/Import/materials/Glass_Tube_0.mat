@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6192144048924691087
+--- !u!114 &-1610924691395364733
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: fcbfe6a04a7a3bb459d47a536fdaf4c5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 149686eb8c3ba67419e278d007edce1e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -59,7 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: f7b86c625fb471942ac452915499132b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 22defbd91ee579447bfb90fbdfdce87d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CoatMaskMap:
@@ -103,19 +103,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: fcbfe6a04a7a3bb459d47a536fdaf4c5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 149686eb8c3ba67419e278d007edce1e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: c4a452fead5e6224b87646611f49cd6a, type: 3}
+        m_Texture: {fileID: 2800000, guid: d201ae392b7d8a6439190ae368e5dc99, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 8a35077a114873149b4e87117e4e442c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1bc5503565057fa4896e9e393b9dd536, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: f7b86c625fb471942ac452915499132b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 22defbd91ee579447bfb90fbdfdce87d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -123,7 +123,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 7238fcc2ad490864fa0542f16f4ef105, type: 3}
+        m_Texture: {fileID: 2800000, guid: e3270e8fe0ff85b4e8d92420b360bc3b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
