@@ -239,7 +239,7 @@ Material:
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
     - _Smoothness: 0.5
-    - _SmoothnessRemapMax: 0.8348083
+    - _SmoothnessRemapMax: 0.22581667
     - _SmoothnessRemapMin: 0.033923335
     - _SmoothnessTextureChannel: 0
     - _SpecularAAScreenSpaceVariance: 0.1
