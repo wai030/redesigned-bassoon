@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bathroom Accesories
+* source:	https://sketchfab.com/3d-models/bathroom-accesories-dc6adb5f8feb41b29dc5aecd6ef60abf
+* author:	OlivGee (https://sketchfab.com/olivgee)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bathroom Accesories" (https://sketchfab.com/3d-models/bathroom-accesories-dc6adb5f8feb41b29dc5aecd6ef60abf) by OlivGee (https://sketchfab.com/olivgee) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
