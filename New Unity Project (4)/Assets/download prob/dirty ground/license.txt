@@ -1,0 +1,11 @@
+Model Information:
+* title:	Seamless Muddy Forest Ground PBR Texture
+* source:	https://sketchfab.com/3d-models/seamless-muddy-forest-ground-pbr-texture-bce20d03c0a44d8285fa566c9fb3fbde
+* author:	d0ggo (https://sketchfab.com/d0ggo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Seamless Muddy Forest Ground PBR Texture" (https://sketchfab.com/3d-models/seamless-muddy-forest-ground-pbr-texture-bce20d03c0a44d8285fa566c9fb3fbde) by d0ggo (https://sketchfab.com/d0ggo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
