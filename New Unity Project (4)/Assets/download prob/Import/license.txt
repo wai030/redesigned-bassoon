@@ -1,0 +1,11 @@
+Model Information:
+* title:	White Pigment Test Tube
+* source:	https://sketchfab.com/3d-models/white-pigment-test-tube-b347dc65474648be89316e625a161e6c
+* author:	Budgie Games (https://sketchfab.com/BGames)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "White Pigment Test Tube" (https://sketchfab.com/3d-models/white-pigment-test-tube-b347dc65474648be89316e625a161e6c) by Budgie Games (https://sketchfab.com/BGames) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
