@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Mahjong table
+* source:	https://sketchfab.com/3d-models/lowpoly-mahjong-table-36a23dc91b6045f79ecd049b6fa27d34
+* author:	Shellsist (https://sketchfab.com/Shellsist)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Mahjong table" (https://sketchfab.com/3d-models/lowpoly-mahjong-table-36a23dc91b6045f79ecd049b6fa27d34) by Shellsist (https://sketchfab.com/Shellsist) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

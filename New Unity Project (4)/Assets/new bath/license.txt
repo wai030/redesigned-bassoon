@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bathtub
+* source:	https://sketchfab.com/3d-models/bathtub-4bdfc355b74c4866ae8f3d84f34bbeb0
+* author:	NguoiDaiViet (https://sketchfab.com/NguoiDaiViet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bathtub" (https://sketchfab.com/3d-models/bathtub-4bdfc355b74c4866ae8f3d84f34bbeb0) by NguoiDaiViet (https://sketchfab.com/NguoiDaiViet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
