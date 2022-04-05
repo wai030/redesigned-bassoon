@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage 80s Mobile Phone
+* source:	https://sketchfab.com/3d-models/vintage-80s-mobile-phone-b55f7f149f9b4ee98f328ee17a8c3e33
+* author:	Kreckler (https://sketchfab.com/Kreck)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage 80s Mobile Phone" (https://sketchfab.com/3d-models/vintage-80s-mobile-phone-b55f7f149f9b4ee98f328ee17a8c3e33) by Kreckler (https://sketchfab.com/Kreck) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

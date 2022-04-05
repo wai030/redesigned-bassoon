@@ -1,0 +1,11 @@
+Model Information:
+* title:	Polystyrene tray
+* source:	https://sketchfab.com/3d-models/polystyrene-tray-eae79071ca8d48e980ea071c2fa70de1
+* author:	_simone.rizzi (https://sketchfab.com/simone_rizzi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Polystyrene tray" (https://sketchfab.com/3d-models/polystyrene-tray-eae79071ca8d48e980ea071c2fa70de1) by _simone.rizzi (https://sketchfab.com/simone_rizzi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
