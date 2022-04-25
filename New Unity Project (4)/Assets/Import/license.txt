@@ -1,0 +1,11 @@
+Model Information:
+* title:	Door Bell
+* source:	https://sketchfab.com/3d-models/door-bell-2f96a0eaa6574d7a9ea27ca04c8a8d6b
+* author:	1_n0sc0p3d_JFK (https://sketchfab.com/1_n0sc0p3d_JFK)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Door Bell" (https://sketchfab.com/3d-models/door-bell-2f96a0eaa6574d7a9ea27ca04c8a8d6b) by 1_n0sc0p3d_JFK (https://sketchfab.com/1_n0sc0p3d_JFK) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
